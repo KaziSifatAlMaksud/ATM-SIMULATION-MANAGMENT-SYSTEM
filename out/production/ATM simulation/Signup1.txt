@@ -1,0 +1,1 @@
+insert into signup values('kazi sifat al maksud','minor hosn','2','April','1994','Male','afafawfwf','Married','asdfawf','asodifjio','saddfa','sdfasf')

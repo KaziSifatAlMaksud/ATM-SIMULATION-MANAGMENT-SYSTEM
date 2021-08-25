@@ -1,0 +1,1 @@
+insert into signup2 values('Islam','General','<1,50,000','Under-Graduate','Student','89894','65498651','Yes','No')
